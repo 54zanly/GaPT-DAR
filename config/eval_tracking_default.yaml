@@ -1,5 +1,5 @@
 main:
-  prediction_output_dir: /home/GarmentTracking_zanly/outputs/2023-10-17/15-40-13
+  prediction_output_dir: xxx
   # negative for using all cores avaliable
   num_workers: 1
 eval:
